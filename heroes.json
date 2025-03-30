@@ -2,26 +2,31 @@
   {
     "name": "Groot",
     "health": 850,
+    "maxShield": 250,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Groot Deluxe Avatar.png"
   },
   {
     "name": "Venom",
     "health": 800,
+    "maxShield": 259,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Venom Deluxe Avatar.png"
   },
   {
     "name": "Hulk",
     "health": 750,
+    "maxShield": 650,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Hero Hulk Deluxe Avatar.png"
   },
   {
     "name": "The Thing",
     "health": 700,
+    "maxShield": 50,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/The Thing Deluxe Avatar.png"
   },
   {
     "name": "Captain America",
     "health": 675,
+    "maxShield": 250,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Captain America Deluxe Avatar.png"
   },
   {
@@ -32,11 +37,13 @@
   {
     "name": "Peni Parker",
     "health": 650,
+    "maxShield": 450,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Peni Parker Deluxe Avatar.png"
   },
   {
     "name": "Thor",
     "health": 625,
+    "maxShield": 200,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Thor Deluxe Avatar.png"
   },
   {
@@ -52,16 +59,19 @@
   {
     "name": "Mister Fantastic",
     "health": 350,
+    "maxShield": 450,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Mister Fantastic Deluxe Avatar.png"
   },
   {
     "name": "Black Panther",
     "health": 300,
+    "maxShield": 75,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Black Panther Deluxe Avatar.png"
   },
   {
     "name": "Iron Fist",
     "health": 300,
+    "maxShield": 200,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Iron Fist Deluxe Avatar.png"
   },
   {
@@ -87,6 +97,7 @@
   {
     "name": "Winter Soldier",
     "health": 275,
+    "maxShield": 50,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Winter Soldier Deluxe Avatar.png"
   },
   {
@@ -97,11 +108,13 @@
   {
     "name": "Luna Snow",
     "health": 275,
+    "maxShield": 250,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Luna Snow Deluxe Avatar.png"
   },
   {
     "name": "Mantis",
     "health": 275,
+    "maxShield": 100,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Mantis Deluxe Avatar.png"
   },
   {
@@ -127,6 +140,7 @@
   {
     "name": "Magik",
     "health": 250,
+    "maxShield": 150,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Magik Deluxe Avatar.png"
   },
   {
@@ -137,6 +151,7 @@
   {
     "name": "Psylocke",
     "health": 250,
+    "maxShield": 50,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Psylocke Deluxe Avatar.png"
   },
   {
@@ -157,6 +172,7 @@
   {
     "name": "Storm",
     "health": 250,
+    "maxShield": 450,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Storm Deluxe Avatar.png"
   },
   {
@@ -182,6 +198,7 @@
   {
     "name": "Rocket Raccoon",
     "health": 250,
+    "maxShield": 25,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Rocket Raccoon Deluxe Avatar.png"
   },
   {
