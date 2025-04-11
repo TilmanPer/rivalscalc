@@ -25,7 +25,7 @@
   },
   {
     "name": "Captain America",
-    "health": 650,
+    "health": 750,
     "maxShield": 250,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Captain America Deluxe Avatar.png"
   },
@@ -48,7 +48,7 @@
   },
   {
     "name": "Doctor Strange",
-    "health": 600,
+    "health": 700,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Doctor Strange Deluxe Avatar.png"
   },
   {
@@ -71,7 +71,7 @@
   {
     "name": "Iron Fist",
     "health": 300,
-    "maxShield": 200,
+    "maxShield": 100,
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Iron Fist Deluxe Avatar.png"
   },
   {
