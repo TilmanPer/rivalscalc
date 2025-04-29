@@ -35,6 +35,11 @@
       "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Magneto Deluxe Avatar.png"
     },
     {
+        "name": "Emma Frost",
+        "health": 650,
+        "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Emma Frost Deluxe Avatar.png"
+    },
+    {
       "name": "Peni Parker",
       "health": 750,
       "maxShield": 450,

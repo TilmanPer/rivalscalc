@@ -41,6 +41,11 @@
     "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Peni Parker Deluxe Avatar.png"
   },
   {
+    "name": "Emma Frost",
+    "health": 650,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Emma Frost Deluxe Avatar.png"
+  },
+  {
     "name": "Thor",
     "health": 600,
     "maxShield": 200,
