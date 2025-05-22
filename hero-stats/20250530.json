@@ -7,7 +7,7 @@
     },
     {
       "name": "Venom",
-      "health": 800,
+      "health": 950,
       "maxShield": 259,
       "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Venom Deluxe Avatar.png"
     },
@@ -25,7 +25,7 @@
     },
     {
       "name": "Captain America",
-      "health": 700,
+      "health": 675,
       "maxShield": 250,
       "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Captain America Deluxe Avatar.png"
     },
@@ -48,7 +48,7 @@
     {
       "name": "Thor",
       "health": 600,
-      "maxShield": 200,
+      "maxShield": 150,
       "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Thor Deluxe Avatar.png"
     },
     {
@@ -76,7 +76,7 @@
     {
       "name": "Iron Fist",
       "health": 300,
-      "maxShield": 200,
+      "maxShield": 175,
       "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Iron Fist Deluxe Avatar.png"
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "name": "The Punisher",
-      "health": 275,
+      "health": 300,
       "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/The Punisher Deluxe Avatar.png"
     },
     {
@@ -135,13 +135,13 @@
     {
       "name": "Human Torch",
       "health": 250,
-      "maxShield": 75,
+      "maxShield": 50,
       "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Human Torch Deluxe Avatar.png"
     },
     {
       "name": "Iron Man",
       "health": 250,
-      "maxShield": 100,
+      "maxShield": 50,
       "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Iron Man Deluxe Avatar.png"
     },
     {
