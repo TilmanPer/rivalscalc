@@ -1,0 +1,255 @@
+[
+  {
+    "name": "Groot",
+    "health": 850,
+    "maxShield": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/groot_avatar.png"
+  },
+  {
+    "name": "Venom",
+    "health": 800,
+    "maxShield": 259,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/venom_avatar.png"
+  },
+  {
+    "name": "Hulk",
+    "health": 750,
+    "maxShield": 650,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Hero Hulk Deluxe Avatar.png"
+  },
+  {
+    "name": "The Thing",
+    "health": 700,
+    "maxShield": 50,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/the-thing_avatar.png"
+  },
+  {
+    "name": "Captain America",
+    "health": 675,
+    "maxShield": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/captain-america_avatar.png"
+  },
+  {
+    "name": "Magneto",
+    "health": 650,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/magneto_avatar.png"
+  },
+  {
+    "name": "Emma Frost",
+    "health": 600,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/emma-frost_avatar.png"
+  },
+  {
+    "name": "Peni Parker",
+    "health": 700,
+    "maxShield": 450,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/peni-parker_avatar.png"
+  },
+  {
+    "name": "Thor",
+    "health": 600,
+    "maxShield": 150,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/thor_avatar.png"
+  },
+  {
+    "name": "Doctor Strange",
+    "health": 675,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/doctor-strange_avatar.png"
+  },
+  {
+    "name": "Wolverine",
+    "health": 350,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/wolverine_avatar.png"
+  },
+  {
+    "name": "Mister Fantastic",
+    "health": 375,
+    "maxShield": 400,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/mister-fantastic_avatar.png"
+  },
+  {
+    "name": "Black Panther",
+    "health": 275,
+    "maxShield": 75,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/black-panther_avatar.png"
+  },
+  {
+    "name": "Iron Fist",
+    "health": 300,
+    "maxShield": 175,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/iron-fist_avatar.png"
+  },
+  {
+    "name": "Hawkeye",
+    "health": 275,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/hawkeye_avatar.png"
+  },
+  {
+    "name": "Namor",
+    "health": 275,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/namor_avatar.png"
+  },
+  {
+    "name": "Squirrel Girl",
+    "health": 275,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/squirrel-girl_avatar.png"
+  },
+  {
+    "name": "The Punisher",
+    "health": 300,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/the-punisher_avatar.png"
+  },
+  {
+    "name": "Winter Soldier",
+    "health": 275,
+    "maxShield": 50,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/winter-soldier_avatar.png"
+  },
+  {
+    "name": "Invisible Woman",
+    "health": 275,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/invisible-woman_avatar.png"
+  },
+  {
+    "name": "Luna Snow",
+    "health": 275,
+    "maxShield": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/luna-snow_avatar.png"
+  },
+  {
+    "name": "Mantis",
+    "health": 250,
+    "maxShield": 100,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/mantis_avatar.png"
+  },
+  {
+    "name": "Black Widow",
+    "health": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/black-widow_avatar.png"
+  },
+  {
+    "name": "Hela",
+    "health": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/hela_avatar.png"
+  },
+  {
+    "name": "Human Torch",
+    "health": 250,
+    "maxShield": 50,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/human-torch_avatar.png"
+  },
+  {
+    "name": "Iron Man",
+    "health": 250,
+    "maxShield": 50,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/iron-man_avatar.png"
+  },
+  {
+    "name": "Magik",
+    "health": 250,
+    "maxShield": 150,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/magik_avatar.png"
+  },
+  {
+    "name": "Moon Knight",
+    "health": 275,
+    "maxShield": 100,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/moon-knight_avatar.png"
+  },
+  {
+    "name": "Psylocke",
+    "health": 250,
+    "maxShield": 50,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/psylocke_avatar.png"
+  },
+  {
+    "name": "Scarlet Witch",
+    "health": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/scarlet-witch_avatar.png"
+  },
+  {
+    "name": "Spider-Man",
+    "health": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/spider-man_avatar.png"
+  },
+  {
+    "name": "Star-Lord",
+    "health": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/star-lord_avatar.png"
+  },
+  {
+    "name": "Storm",
+    "health": 250,
+    "maxShield": 450,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/storm_avatar.png"
+  },
+  {
+    "name": "Adam Warlock",
+    "health": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/adam-warlock_avatar.png"
+  },
+  {
+    "name": "Cloak And Dagger",
+    "health": 275,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/cloak-and-dagger_avatar.png"
+  },
+  {
+    "name": "Jeff the Land Shark",
+    "health": 250,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/jeff-the-land-shark_avatar.png"
+  },
+  {
+    "name": "Loki",
+    "health": 275,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/loki_avatar.png"
+  },
+  {
+    "name": "Rocket Raccoon",
+    "health": 250,
+    "maxShield": 150,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/rocket-raccoon_avatar.png"
+  },
+  {
+    "name": "Bruce Banner",
+    "health": 200,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/lord-icons/Bruce Banner Deluxe Avatar.png"
+  },
+  {
+    "name": "Ultron",
+    "health": 250,
+    "maxShield": 65,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/ultron_avatar.png"
+  },
+  {
+    "name": "Angela",
+    "health": 550,
+    "maxShield": 200,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/angela_avatar.png"
+  },
+  {
+    "name": "Blade",
+    "health": 350,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/blade_avatar.png"
+  },
+  {
+    "name": "Daredevil",
+    "health": 300,
+    "maxShield": 125,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/daredevil_avatar.png"
+  },
+  {
+    "name": "Gambit",
+    "health": 275,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/gambit_avatar.png"
+  },
+  {
+    "name": "Phoenix",
+    "health": 275,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/phoenix_avatar.png"
+  },
+  {
+    "name": "Rogue",
+    "health": 675,
+    "avatar": "https://rivalskins.com/wp-content/uploads/marvel-assets/assets/hero-icons-avatars/rogue_avatar.png"
+  }
+]
